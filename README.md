@@ -14,6 +14,11 @@ A cinematic, real-time radar simulation built using MATLAB — featuring a rotat
 
 ---
 
+![Radar](https://github.com/user-attachments/assets/cf39a706-c8f1-4b8a-8655-13d2971c7c3b)
+
+
+---
+
 ## Technologies Used
 
 - **MATLAB**
